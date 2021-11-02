@@ -1,0 +1,189 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 995,
+      "type": "VEC3",
+      "max": [
+        1.1385552883148193,
+        1.1015526056289673,
+        3.822551965713501
+      ],
+      "min": [
+        -1.1984758377075195,
+        -1.221927285194397,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 995,
+      "type": "VEC3",
+      "max": [
+        0.99998903274536133,
+        0.99998903274536133,
+        0.99984622001647949
+      ],
+      "min": [
+        -0.99998903274536133,
+        -0.99998903274536133,
+        -0.97522753477096558
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 995,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        1.0,
+        0.99876260757446289,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.99998903274536133,
+        -0.99989962577819824,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 995,
+      "type": "VEC2",
+      "max": [
+        0.9836999773979187,
+        11.0
+      ],
+      "min": [
+        0.035000000149011612,
+        -0.5
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 2004,
+      "type": "SCALAR",
+      "max": [
+        994.0
+      ],
+      "min": [
+        0.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "UnityGLTF (2019.1.1f1)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Unity2Skfb.bin",
+      "byteLength": 55776
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11940
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11940,
+      "byteLength": 11940
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23880,
+      "byteLength": 15920
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 39800,
+      "byteLength": 7960
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47760,
+      "byteLength": 8016
+    }
+  ],
+  "images": [
+    {
+      "uri": "11954_Pot_Plsnt_01.png",
+      "name": "Pot_Plsnt_01"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "name": "Pot_Plant_01"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        }
+      ],
+      "name": "Cannabis_Strain_S1_Veg"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "rotation": [
+        -0.7071068,
+        0.0,
+        0.0,
+        -0.7071068
+      ],
+      "scale": [
+        1.0,
+        1.00000024,
+        1.00000024
+      ],
+      "name": "Cannabis_Strain_S1_Veg"
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9729
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Unity2Skfb"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Pot_Plsnt_01"
+    }
+  ]
+}
